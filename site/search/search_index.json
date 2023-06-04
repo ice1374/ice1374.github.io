@@ -1,1 +1,1 @@
-{"config": {"lang": ["en"], "separator": "[\\s\\-]+", "pipeline": ["stopWordFilter"]}, "docs": [{"location": "", "title": "About", "text": "<p>ooops</p>"}, {"location": "page2/", "title": "Page2", "text": ""}, {"location": "page2/#page2", "title": "page2", "text": ""}]}
+{"config": {"lang": ["en"], "separator": "[\\s\\-]+", "pipeline": ["stopWordFilter"]}, "docs": [{"location": "", "title": "About", "text": "<p>ooops</p>"}]}
