@@ -1,8 +1,8 @@
 password: secret
 
-## Прочитанные книги
+## Литература
 
-## Литература (прочитано)
+## Книги (прочитано)
 | # | Дата прочтения | Год издания |  <div style="width:400px">Название</div> |  Издательство \ Автор   | Тема |  Тип     |   Язык  | Страниц | <div style="visibility: hidden">Ссылка</div> |
 |---|-----|-------------|----------------------------------------------------------|-------------------------------|---------------------|----------|-------------|---------|-|
 | * | 2018 | 2017  |  Mastering VMware vSphere 6.7<br>Eﬀectively deploy, manage, and monitor your virtual<br>datacenter with VMware vSphere 6.7 | Packt | VMWare |   Книга  |  Английский | 740 |  <div style="visibility: hidden">D:\DATA\Dropbox\BOOKS\vmware\Mastering VMware vSphere 6.7-2nd Ed_1.pdf</div> |
@@ -13,7 +13,7 @@ password: secret
 | * | 2020 | 2020 | Руководство по созданию плана аварийного восстановления (2020) | DEAC | SRE  |  Брошюра |  Русский |  30  | <div style="visibility: hidden">D:\DATA\Dropbox\BOOKS\Rukovodstvo-po-planu-avariinogho-vosstanovlieniia.pdf</div>    |
 
 
-##  План прочтения
+##  Книги (план)
 | # | Дата | Год издания |  <div style="width:500px">Название</div>|  Издательство \ Автор         | Тема                |  Тип     |   Язык      | Страниц | <div style="visibility: hidden">Ссылка</div> |
 |---|-----------------|-------------|----------------------------------------------------------|-------------------------------|---------------------|----------|-------------|---------| -----|
 | * |  |   2020  |  Building Secure & Reliable Systems<br>Best Practices for Designing, Implementing<br>and Maintainig ystems |  O'Reilly  | VMWare |   Книга  |  Английский |  557 |  <div style="visibility: hidden">D:\DATA\Dropbox\BOOKS\building_secure_and_reliable_systems.pdf</div> |
