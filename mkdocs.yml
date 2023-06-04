@@ -1,0 +1,11 @@
+site_name: docs
+nav:
+    - 'About': index.md
+    - test:
+        - 'booooks': books/books.md
+
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
