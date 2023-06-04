@@ -1,11 +1,52 @@
 site_name: docs
 nav:
-    - 'About': index.md
+    - About: index.md
     - test:
-        - 'booooks': books/books.md
+        - 'boooks': books/books.md
 
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: blue grey
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: blue grey
+      accent: lime
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
 markdown_extensions:
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.mark
+  - attr_list
   - pymdownx.superfences
+
+  - tables
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/ice1374
+    - icon: fontawesome/brands/linkedin
+      link: https://github.com/ice1374
