@@ -1,8 +1,8 @@
 site_name: docs
 nav:
     - About: index.md
-    - test:
-        - 'boooks': books/books.md
+    - Books:
+        - 'books': books/books.md
 
 theme:
   name: material
